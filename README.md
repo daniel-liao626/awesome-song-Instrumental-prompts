@@ -192,48 +192,79 @@ Experiment with combinations, refine, and iterate — each prompt is a creative 
 
 ### R&B / Soul
 >1.r&b, neo-soul, warm keys, sensual, late-night mood, slow tempo, silky vocals
+>
 >2.soul, classic soul, vintage horns, heartfelt, 70s vibe, medium tempo, rich instrumentation
+>
 >3.r&b, modern r&b, ambient textures, moody, contemporary edge, slow tempo, deep bass
+>
 >4.r&b, alt r&b, experimental beats, emotional, intimate feel, slow-medium tempo, abstract groove
+>
 >5.r&b, trap soul, 808 drums, romantic, vibey atmosphere, medium tempo, autotuned vocals
+>
 >6.soul, gospel soul, uplifting harmonies, spiritual, reverent mood, slow tempo, choir elements
+>
 >7.r&b, acoustic soul, fingerpicked guitar, raw, honest vibe, slow-medium tempo, minimal production
+>
 >8.soul, psychedelic soul, swirling keys, funky, hazy feel, medium tempo, wah guitar
+>
 >9.soul, motown soul, upbeat melodies, joyful, retro dance vibe, medium-fast tempo, tight rhythms
+>
 >10.r&b, lo-fi r&b, grainy textures, chilled, nostalgic tone, slow tempo, warm loops
 
 ### Hip Hop
 >1.hip-hop, old school, vinyl textures, classic, upbeat party feel, medium-fast tempo, looped breaks.
+>
 >2.hip-hop, east coast, lyrical flow, intense, raw energy, medium-fast tempo, layered samples
+>
 >3.hip-hop, boom bap, gritty beats, urban, nostalgic vibe, medium tempo, punchy snares, lyrical focus
+>
 >4.hip-hop, trap, 808 bass, dark, atmospheric tone, fast tempo, stuttered hi-hats, aggressive delivery
+>
 >5.hip-hop, drill, sliding 808s, menacing, high tension, fast tempo, aggressive tone
+>
 >6.hip-hop, conscious rap, thoughtful lyrics, introspective, soulful feel, medium tempo, warm instrumentation
+>
 >7.hip-hop, jazz rap, live instruments, cool, urban sophistication, medium tempo, walking bass
+>
 >8.hip-hop, lo-fi hip-hop, jazzy chords, chill, rainy day vibe, slow tempo, mellow beats
 
 ### Blues / Soul Rock
 >1.blues, delta blues, slide guitar, raw, swampy feel, slow tempo, stripped-down vibe
+>
 >2.blues, electric blues, expressive solos, emotional, smoky mood, medium tempo, walking bass
+>
 >3.blues, Chicago blues, harmonica lead, urban, cool groove, medium tempo, classic rhythm section
+>
 >4.blues, experimental blues, unconventional tone, abstract, expressive vibe, variable tempo, edgy textures
+>
 >5.blues, acoustic blues, fingerpicked rhythm, intimate, dusty mood, slow tempo, storyteller feel
+>
 >6.blues, slow blues ballad, mournful guitar, melancholic, emotional weight, slow tempo, expressive phrasing
 
 ### Folk
 >1."folk, indie folk, fingerpicked guitar, warm, introspective mood, slow-medium tempo, natural textures" -- Warm indie folk with introspective fingerpicked guitar
+>
 >2."folk, Celtic folk, traditional melodies, mystical, forest vibe, medium tempo, lively rhythms"--Mystical Celtic folk with traditional forest atmospheres
+>
 >3."folk, Appalachian folk, fiddle and banjo, rustic, mountain feel, medium-fast tempo, earthy charm"--Rustic Appalachian folk with traditional mountain instruments
+>
 >4."acoustic, singer-songwriter, heartfelt lyrics, emotional, storytelling vibe, slow tempo, minimal backing"--Emotional singer-songwriter with heartfelt storytelling
+>
 >5."folk, alt folk, experimental textures, quirky, organic mood, slow-medium tempo, subtle percussion"--Quirky alternative folk with experimental organic textures
+>
 >6."folk, psychedelic folk, swirling layers, surreal, dreamlike energy, slow-medium tempo, reverb-heavy"--Surreal psychedelic folk with dreamlike swirling textures
 
 ### Metal / Hard Rock
 >1."metal, heavy metal, distorted riffs, aggressive, raw power, fast tempo, double kick drums"--Aggressive heavy metal with distorted riffs and double kick drums
+>
 >2."metal, death metal, growling vocals, brutal, chaotic energy, fast tempo, relentless rhythm"--Brutal death metal with growling vocals and chaotic energy
+>
 >3."metal, black metal, tremolo picking, grim, cold vibe, fast tempo, reverb-heavy mix"--Grim black metal with cold atmospheric tremolo picking
+>
 >4."metal, progressive metal, odd rhythms, epic, complex structures, variable tempo, layered textures"--Epic progressive metal with complex rhythmic structures
+>
 >5."metal, symphonic metal, orchestral backing, majestic, cinematic scope, medium tempo, layered elements"--Majestic symphonic metal with orchestral arrangements
+>
 >6."metal, post-metal, ambient textures, melancholic, slow-building intensity, slow tempo, cinematic feel"--Melancholic post-metal with cinematic ambient textures
 
 
@@ -241,33 +272,53 @@ Experiment with combinations, refine, and iterate — each prompt is a creative 
 
 ### Short Video Vlog
 >1.Upbeat piano rhythm dancing, awakening travelers' joyful mood
+>
 >2.Tropical rhythm mixed with whistle melody, creating summer-themed joyful atmosphere
+>
 >3.Ethnic instruments fused with electronic elements, showcasing unique charm of cultural exploration content
+>
 >4.Jazz piano intertwined with lazy drums, recreating cozy café moments
+>
 >5.Tech-savvy electronic sound effects with futuristic feel, matching professional tech review tone
+>
 >6.Lively piano notes jumping, injecting dynamic energy into travel vlogs
 
 ### Brand Advertisement
 >1.Warm acoustic guitar gently playing, telling brand's humanistic story
+>
 >2.Energetic electronic melody paired with bright synth tones, igniting new product launch atmosphere
+>
 >3.Warm strings layered progressively, interpreting luxury's premium texture and style
+>
 >4.Bright brass intertwined with jumping piano, showcasing tech brand's cutting-edge innovation vitality
+>
 >5.Light guitar jumping rhythm, creating joyful summer promotion atmosphere
+>
 >6.Mechanical electronic beats combined with glitch effects, crafting sport brand's youthful trend sense
 
 ### Film & Animation
 >1.Magnificent symphony intertwined with choir harmonies, perfectly highlighting the hero's dramatic entrance
+>
 >2.Melancholic jazz piano paired with saxophone improvisation, creating mysterious suspense atmosphere
+>
 >3.Epic symphony with majestic choir, building tension for fantasy adventure movie climax
+>
 >4.Distorted guitar tearing tones fused with industrial noise, precisely shaping cyberpunk world
+>
 >5.Piano and violin alternating in conversational melodies, delicately depicting youth animation emotional threads
+>
 >6.Tense electronic pulses combined with urgent strings, enhancing sci-fi chase scene oppressive rhythm
 
 ### Sleep & Healing
 >1.Continuous low-frequency synthesizer waves steadily laid out, guiding into deep meditation state
+>
 >2.Cello's long low hum in dialogue with piano, professional-grade soothing sound therapy experience
+>
 >3.Gentle ocean wave soundscape extending, building anxiety emotion release space
+>
 >4.Soothing piano notes paired with ambient white noise, helping body and mind prepare for sleep
+>
 >5.Warm cello and harp tone dialogue, gently releasing daily accumulated stress
+>
 >6.Harp harmonic ripples gently caressing piano chords, weaving peaceful bedtime moments
 
