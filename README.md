@@ -171,14 +171,23 @@ Experiment with combinations, refine, and iterate — each prompt is a creative 
 
 ### Pop
 >1.pop, bedroom pop, intimate vocals, lo-fi, cozy atmosphere, slow-medium tempo, minimal production
+>
 >2.pop, acoustic pop, strummed guitar, heartfelt, singer-songwriter mood, slow-medium tempo
+>
 >3.pop, tropical pop, steel drums, sunny, vacation vibe, medium tempo, smooth rhythms
+>
 >4.pop, commercial pop, polished vocals, universal, feel-good tone, medium-fast tempo, crisp production
+>
 >5.pop, funk pop, groovy basslines, fun, retro vibe, medium-fast tempo, rhythmic focus
+>
 >6.pop, dance pop, pulsing beats, euphoric, club-ready feel, fast tempo, strong choruses
+>
 >7.pop, indie pop, jangly guitars, upbeat, whimsical tone, medium tempo, layered vocals
+>
 >8.pop, cinematic pop, orchestral elements, uplifting, epic feel, slow build, strong dynamics
+>
 >9.pop, hyperpop, glitchy textures, chaotic, digital overload, fast tempo, autotuned vocals
+>
 >10.pop, art pop, unconventional structure, expressive, experimental tone, variable tempo
 
 ### R&B / Soul
